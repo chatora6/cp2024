@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # cp2024
 
-## PART1
+## Part1
 This is README.
 - itemA
 - itemB
